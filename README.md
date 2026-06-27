@@ -141,7 +141,7 @@ All commands use the `/command` format (izcmd).
 | Command | Description |
 |---|---|
 | `/setadmin [playerid] [level]` | Set a player's admin level (0-5) |
-| `/forceteam [playerid] [team]` | Force a player into a team (0=Spec, 1=Alpha, 2=Bravo) |
+| `/forceteam [playerid] [team]` | Force a player into a team (0=Spec, 1=Attacker, 2=Deffender) |
 | `/startmatch` | Force-start a match |
 | `/forcestart` | Force-start a match (alias) |
 
